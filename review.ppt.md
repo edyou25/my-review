@@ -63,7 +63,6 @@ style: |
     padding: 3px 4px;
     font-size: 0.6em;
   }
-  
 ---
 
 # 🤖 Academic Resources in Robotics
@@ -104,6 +103,40 @@ style: |
 - **Annual Conferences** (365d): ICRA, IROS, RSS, CoRL
 - **Biennial Conference** (730d): ISRR
 
+
+---
+
+# 🏆 Academic Impact Rankings
+
+
+<div class="small-table">
+
+
+| Venue | Full Name | Impact | Frequency | Publisher | Description |
+|-------|-----------|--------|-----------|-----------|-------------|
+| **IJRR** | Int'l Journal of Robotics Research | 9.2 | Monthly | SAGE | Premier theoretical & experimental robotics |
+| **Science Robotics** | Science Robotics | 18.7 | Monthly | AAAS | High-impact interdisciplinary robotics |
+| **Nature Robotics** | Nature Machine Intelligence* | 15.5 | Quarterly | Nature | AI-driven robotics applications |
+| **RA-L** | IEEE Robotics & Automation Letters | 5.2 | Monthly | IEEE | Rapid publication with ICRA/IROS options |
+
+
+| Venue | Full Name | Impact | Frequency | Publisher | Description |
+|-------|-----------|--------|-----------|-----------|-------------|
+| **T-RO** | IEEE Trans. on Robotics | 4.8 | Quarterly | IEEE | Comprehensive robotics research |
+| **RAS** | Robotics and Autonomous Systems | 3.7 | Monthly | Elsevier | Autonomous systems & applications |
+| **AURO** | Autonomous Robots | 3.5 | Quarterly | Springer | Theory and practice of autonomous robots |
+
+
+| Venue | Full Name | Acceptance | Frequency | Organizer | Focus Area |
+|-------|-----------|------------|-----------|-----------|------------|
+| **ICRA** | IEEE Int'l Conf. on Robotics & Automation | ~40% | Annual | IEEE-RAS | General robotics & automation |
+| **IROS** | IEEE/RSJ Int'l Conf. on Intelligent Robots | ~45% | Annual | IEEE/RSJ | Intelligent robotic systems |
+| **RSS** | Robotics: Science and Systems | ~25% | Annual | RSS Foundation | Algorithmic & system foundations |
+| **CoRL** | Conference on Robot Learning | ~30% | Annual | PMLR | Learning-based robotics |
+
+
+</div>
+
 ---
 
 # 📋 Contents
@@ -111,6 +144,7 @@ style: |
 
 | Month | Year | Status | Papers | Highlights |
 |-------|------|--------|--------|------------|
+| [**Academic Impact Rankings**](#🏆-academic-impact-rankings) | - | 📊 Reference | Top venues | Complete resource guide |
 | [**July**](#📄-july-2025-paper-review) | 2025 | ✅ Available | 6 papers | IJRR special collection |
 | [**August**](#📄-august-2025-paper-review) | 2025 | 🔄 Coming Soon | TBD | ICRA & IROS selections |
 | [**September**](#📄-september-2025-paper-review) | 2025 | 📅 Planned | TBD | CoRL & RSS highlights |
